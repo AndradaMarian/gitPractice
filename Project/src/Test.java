@@ -1,3 +1,6 @@
 public class Test {
-  //edit from git 
+  //edit from git
+  public static void main(String[] args) {
+      System.out.println("FirstClass");
+  }
 }
