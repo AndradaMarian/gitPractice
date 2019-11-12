@@ -1,0 +1,9 @@
+1.Sentences start with "-" or capital letter.
+2.Sentences end with "!", ".", "?".
+3.Sentences are made of at least one word.
+4.Words can contain only digits or only letters or only one special character "-"
+5.Additionally, words can end with one of:",", "/", ";", ":", " " ",")", "}", "]"
+6.Additionally, words can start with one of: "(" , "{", "[".
+7.The brackets and the quotes must be open and closed with the corresponding one.
+8. At the beginning and at the end of the line we don't have spaces.
+
