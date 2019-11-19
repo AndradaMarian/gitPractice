@@ -1,1 +1,11 @@
+Processors\FilePrinter.class
 Main.class
+Processors\FileProcessor.class
+Processors\SentenceProcessor.class
+Processors\Text.class
+Processors\FolderReader.class
+Processors\TextProcessor.class
+Processors\Sentence.class
+Processors\test.class
+Processors\Word.class
+Processors\WordProcessor.class
